@@ -1,8 +1,8 @@
 # IVBOY - A Powerful FORTH-like Programable Scientific RPN Calculator for the Arduboy
 
-  This software is covered by the 3-clause BSD license.
-  See also: https://github.com/zooxo/ivboy
-  See also a short video at: youtu.be/NNGXt9OnyTY
+   This software is covered by the 3-clause BSD license.
+   See also: https://github.com/zooxo/ivboy
+   See also a short video at: www.youtu.be/NNGXt9OnyTY
   
 ```
   ____________________
